@@ -1,6 +1,6 @@
 # Advent of Code 2025
 
-This is the first time I take part in the Advent of Code challenge, which can be found [here](https://adventofcode.com).
+This is the first time I take part in the [Advent of Code](https://adventofcode.com) challenge.
 
 I decided to make it an occasion to learn about new programming languages. For this reason, I will use different languages throughout the challenge. In addition to some known ones, I will add some that are still foreign to me.
 
